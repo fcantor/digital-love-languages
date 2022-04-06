@@ -1,4 +1,4 @@
-![<img src="/images/scrapism.png" width="100" height="100"/>](/images/dll2022.png)
+![<img src="/images/dll2022.png" width="100" height="100"/>](/images/dll2022.png)
 
 # About
 This repo is where I'll be pushing up any work I'm doing and have submitted for the School of Poetic Computation's Digital Love Languages class (Spring 2022).
