@@ -1,3 +1,0 @@
-#!/bin/bash
-tree
-find . -type f -exec cat {} +
