@@ -20,6 +20,7 @@ function clean() {
                 find . -name "wait, i*" -exec rm -f {} \;
                 find . -name "omg my KEYS*" -exec rm -f {} \;
                 find . -name "wait.. where're*" -exec rm -f {} \;
+                find . -name "...they're not in the bed" -exec rm -f {} \;
 
                 # if inside the bedroom, create the following files if it doesn't exist
                 if [[ "$PWD" == "/Users/cheska/Repos/sfpc/spring-2022/digital-love-languages/homework/folder-poetry/the living room/the bedroom" ]]
@@ -29,6 +30,7 @@ function clean() {
                     touch "should i dress like a cozy troll or a hot villain?" 2> /dev/null
                     touch "tada! i am dressed as a cute gremlin" 2> /dev/null
                     touch "that's a compromise, right?" 2> /dev/null
+                    touch "how did my keys get in there?" 2> /dev/null
                 fi
                 #Work our way thru the system recursively
                 if [ -d "$file" ]
